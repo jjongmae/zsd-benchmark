@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+opencv-python
+pillow
+numpy
+supervision
+huggingface_hub
+python-dotenv

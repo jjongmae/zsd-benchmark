@@ -1,0 +1,39 @@
+# 환경 설정 파일
+.env
+
+# 가상환경
+venv/
+env/
+ENV/
+
+# 모델 캐시 폴더 (Hugging Face 모델 저장)
+models/
+
+# 입력/출력 폴더
+input/
+output*/
+
+# Python 캐시
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE 설정
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 로그 파일
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
