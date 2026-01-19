@@ -3,11 +3,14 @@
 
 # 가상환경
 venv/
+.venv/
 env/
 ENV/
 
 # 모델 캐시 폴더 (Hugging Face 모델 저장)
 models/
+*.pt
+*.pth
 
 # 입력/출력 폴더
 input/
